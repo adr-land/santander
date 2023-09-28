@@ -1,0 +1,12 @@
+h1{
+color: blue;
+background-color:aqua;
+}
+body{
+    color: aquamarine;
+    background-color: black;
+}
+ol{
+    position: relative;
+    left: 200px
+}
